@@ -1,7 +1,7 @@
 {
   "mappings": [
     "/content/mydemo/:/",
-    "/content/mydemo/configuration:/.helix/config.json",
+    "/content/mydemo/configuration:/.helix/config.json", 
     "/content/mydemo/headers:/.helix/headers.json",
     "/content/mydemo/metadata:/metadata.json",
     "/content/mydemo.resource/enrichment/enrichment.json:/enrichment/enrichment.json"
